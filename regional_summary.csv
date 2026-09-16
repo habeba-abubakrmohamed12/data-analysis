@@ -1,0 +1,7 @@
+region,num_students,avg_percentage,gap_above_lowest,overall_region_gap
+East Asia,6735,71.8,10.5,10.5
+North America,6712,70.1,8.8,10.5
+Europe,6726,69.3,8.1,10.5
+South America,6627,66.3,5.0,10.5
+South Asia,6553,63.3,2.0,10.5
+Africa,6647,61.3,0.0,10.5
